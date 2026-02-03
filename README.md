@@ -177,7 +177,7 @@ credit-scoring-unbanked-retailers/
 
 ```bash
 # Clone repository
-git clone https://github.com/your-org/credit-scoring-unbanked-retailers.git
+git clone https://github.com/Racheal253/credit-scoring-unbanked-retailers.git
 cd credit-scoring-unbanked-retailers
 
 # Create virtual environment
