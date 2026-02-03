@@ -18,7 +18,7 @@
 - [Installation & Setup](#installation--setup)
 - [Usage Guide](#usage-guide)
 - [Business Impact](#business-impact)
-- [Contributing](#contributing)
+- [Contributing](#CONTRIBUTING)
 
 ---
 
