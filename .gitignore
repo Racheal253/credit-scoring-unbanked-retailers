@@ -1,0 +1,50 @@
+cat > .gitignore << 'EOF'
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Data files (optional - uncomment if you don't want to share data)
+# data/synthetic_data/*.csv
+# *.csv
+
+# Models (large files)
+models/*.pkl
+models/*.h5
+*.model
+*.bin
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Power BI
+*.pbix.bak
+*.tmp
+
+# Credentials
+*.env
+.env.local
+credentials.json
+EOF

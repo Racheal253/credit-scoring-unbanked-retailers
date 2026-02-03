@@ -1,0 +1,24 @@
+cat > requirements.txt << 'EOF'
+# Core dependencies
+pyspark==3.5.0
+pandas==2.0.3
+numpy==1.24.3
+
+# ML and MLflow
+mlflow==2.9.2
+scikit-learn==1.3.2
+
+# Data validation
+great-expectations==0.18.8
+
+# Visualization (for notebooks)
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Azure/Fabric (if needed)
+azure-identity==1.15.0
+azure-storage-file-datalake==12.14.0
+
+# Utilities
+python-dotenv==1.0.0
+EOF
