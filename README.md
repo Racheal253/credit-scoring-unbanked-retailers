@@ -9,19 +9,18 @@
 ---
 
 ## 📋 Table of Contents
-- [Executive Summary](#executive-summary)
-- [Problem Statement](#problem-statement)
-- [Solution Overview](#solution-overview)
-- [Key Results](#key-results)
-- [Model Performance Deep Dive](#model-performance-deep-dive)
-- [Portfolio Performance](#portfolio-performance)
-- [Power BI Dashboard](#power-bi-dashboard)
-- [Technical Architecture](#technical-architecture)
-- [Project Structure](#project-structure)
-- [Installation & Setup](#installation--setup)
-- [Usage Guide](#usage-guide)
-- [Business Impact](#business-impact)
-- [Contributing](#contributing)
+- [Executive Summary](#-executive-summary)
+- [Problem Statement](#-problem-statement)
+- [Solution Overview](#-solution-overview)
+- [Key Results](#-key-results)
+- [Model Performance Deep Dive](#-model-performance-deep-dive)
+- [Portfolio Performance](#-portfolio-performance)
+- [Power BI Dashboard](#-power-bi-dashboard)
+- [Technical Architecture](#-technical-architecture)
+- [Project Structure](#-project-structure)
+- [Installation & Setup](#-installation--setup)
+- [Business Impact](#-business-impact)
+- [Contributing](#-contributing)
 
 ---
 
@@ -230,7 +229,8 @@ The solution includes a comprehensive **Power BI dashboard** with real-time moni
 
 #### Page 1: Executive Summary
 **Purpose:** High-level KPIs and portfolio overview
-<img width="1336" height="741" alt="Screenshot 2026-02-09 183610" src="https://github.com/user-attachments/assets/6adf50fa-8f42-443b-a393-31dcacac333b" />
+
+<img width="1336" height="741" alt="Screenshot 2026-02-09 183610" src="assets/executive_overview.png" />
 
 **Features:**
 - 4 KPI cards with Month-over-Month growth tracking
@@ -246,7 +246,7 @@ The solution includes a comprehensive **Power BI dashboard** with real-time moni
 
 #### Page 2: Portfolio Analysis
 **Purpose:** Tier-level performance breakdown
-<img width="1306" height="721" alt="Screenshot 2026-02-09 183624" src="https://github.com/user-attachments/assets/a5f6e7b1-972a-4bf7-99ab-4f969cb3b3fd" />
+<img width="1306" height="721" alt="Screenshot 2026-02-09 183624" src="assets/portfolio_analysis.png" />
 
 **Features:**
 - Matrix table: Portfolio metrics by tier
@@ -263,7 +263,7 @@ The solution includes a comprehensive **Power BI dashboard** with real-time moni
 
 #### Page 3: Model Performance
 **Purpose:** Model validation and accuracy metrics
-<img width="1315" height="729" alt="Screenshot 2026-02-09 183642" src="https://github.com/user-attachments/assets/5ee485b9-787d-4097-a129-62d6f5dcb893" />
+<img width="1315" height="729" alt="Screenshot 2026-02-09 183642" src="assets/model.png" />
 
 **Features:**
 - 4 Model KPI cards:
@@ -289,7 +289,7 @@ The solution includes a comprehensive **Power BI dashboard** with real-time moni
 
 #### Page 4: Retailer Deep Dive
 **Purpose:** Individual customer analysis
-<img width="1320" height="731" alt="Screenshot 2026-02-09 183703" src="https://github.com/user-attachments/assets/2412c309-0e43-4ba7-9e20-d8e38a2c5905" />
+<img width="1320" height="731" alt="Screenshot 2026-02-09 183703" src="assets/retailer_deep_dive" />
 
 **Features:**
 - Searchable retailer dropdown slicer
